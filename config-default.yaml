@@ -36,11 +36,11 @@ tcr:
     lists:
       - networkId: 1
         listId: 1
-        # contractAddress: '0x1854dae560abb0f399d8badca456663ca5c309d0' # Testing TCR with rare tokens
-        contractAddress: '0x93DB90445B76329e9ed96ECd74e76D8fbf2590d8'
+        # contractAddress: '0x7030B43E821BA34124915bA65B90Dbda7a9E7d09' # Testing TCR with rare tokens
+        contractAddress: '0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b'
 
       - networkId: 4
-        contractAddress: '0xBb840456546496E7640DC09ba9fE06E67C157E1b'
+        contractAddress: '0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48'
 
 # Price estimation/orderbook graph
 dexPriceEstimator:
